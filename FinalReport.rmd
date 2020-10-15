@@ -63,4 +63,6 @@ fisher.test(table1)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+  
 Null hypothesis is truely low according to the p value. Drug is bad news if you are a women. Fisher test works best in this 2 by 2 situation. Those who took the drug chances were lower to catch aids, however for women 60% of them got aids and 40% took the placebo. So the other 20% women got aids by taking the drugs therefore the drug does not work for women. 
+  
